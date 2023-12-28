@@ -1,4 +1,6 @@
-# Crosscultural_HSD
+# Culturally Insensitive HSC
+
+This repository is for '[Hate Speech Classifiers are Culturally Insensitive](https://aclanthology.org/2023.c3nlp-1.5/)' @ C3NLP 2023.
 
 ### For Data Processing
 `utils.py`: where all the functions utilized throughout the experiment are  
